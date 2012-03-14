@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Favourites feed</lang>
+	</name>
+	<author>
+		<lang name="default">Alexei Lukin aka Kerby</lang>
+	</author>
+	<homepage>http://imthinker.ru/plugin-favfeed/</homepage>
+	<version>1.0.2</version>
+	<requires>
+		<livestreet>0.4.2</livestreet>
+		<plugins>
+		</plugins>
+	</requires>
+	<description>
+		<lang name="default">Shows feed of favourite topics' activity - new comments</lang>
+		<lang name="russian">Показывает ленту активности избранных топиков - топики, в которых есть новые комментарии</lang>
+	</description>
+
+</plugin>
